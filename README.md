@@ -1,5 +1,5 @@
 # yrec_user_tools
-Functions and guidelines for using the Yale Rotating Evolution Code
+Tools and guidelines for using the Yale Rotating Evolution Code
 
 This folder contains several tools that may be useful when working with YREC.
 
